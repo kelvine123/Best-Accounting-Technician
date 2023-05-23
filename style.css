@@ -1,9 +1,10 @@
 body{
+    font-size: xxx-large;
     text-align: center;
 
 }
 .middle-container{
-    background-color: #d3d3d39f;
+    background-color: hsla(224, 51%, 71%, 0.199);
 }
 
 .Kelvine{
@@ -17,24 +18,24 @@ body{
 }
 .f{
     text-align: left;
-    font-size: large;
+    font-size: xxx-large;
 }
 .v{
     text-align: left;
-    font-size: large;
+    font-size: xxx-large;
 }
 .k{
     font-family: "sacramento",cursive;
-    font-size: large;
+    font-size: xxx-large;
 }
 .w{
     text-align: left;
-    font-size: large;
+    font-size: xxx-large;
 }
 .datan{
     max-width: 100%;
     height: auto;
 }
 .text{
-    font-size: large;
+    font-size: xxx-large;
 }
