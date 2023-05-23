@@ -3,6 +3,9 @@ body{
     text-align: center;
 
 }
+.header{
+    color: aqua;
+}
 .middle-container{
     background-color: hsla(224, 51%, 71%, 0.199);
 }
