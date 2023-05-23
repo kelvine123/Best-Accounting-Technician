@@ -27,3 +27,7 @@ body{
 .w{
     text-align: left;
 }
+.datan{
+    max-width: 100%;
+    height: auto;
+}
