@@ -17,17 +17,24 @@ body{
 }
 .f{
     text-align: left;
+    font-size: large;
 }
 .v{
     text-align: left;
+    font-size: large;
 }
 .k{
     font-family: "sacramento",cursive;
+    font-size: large;
 }
 .w{
     text-align: left;
+    font-size: large;
 }
 .datan{
     max-width: 100%;
     height: auto;
+}
+.text{
+    font-size: large;
 }
