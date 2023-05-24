@@ -7,7 +7,7 @@ body{
     color: aqua;
 }
 .middle-container{
-    background-color: hwb(224 56% 14% / 0.404);
+    background-color: hwb(224 56% 14% / 0.349);
 }
 
 .Kelvine{
@@ -53,4 +53,11 @@ body{
 .e{
     font-size: xxx-large;
     color: darkorange;
+}
+.name{
+    font-size: xxx-large;
+}
+.WEL{
+    width: 730px;
+  height: auto;
 }
