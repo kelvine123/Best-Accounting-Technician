@@ -58,6 +58,6 @@ body{
     font-size: xxx-large;
 }
 .WEL{
-    width: 730px;
-  height: auto;
+   max-width: 100%;
+    height: auto;
 }
